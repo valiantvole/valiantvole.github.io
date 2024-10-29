@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://valiantvole.github.io/zp533/sitemap_index.txt
